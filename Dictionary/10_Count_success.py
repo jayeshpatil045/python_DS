@@ -3,7 +3,7 @@
 @Date: 2024-08-19
 @Last Modified by: Jayesh Patil
 @Title : Write a Python program to count the values associated with key in a
-dictionary.
+          dictionary.
 
 '''
 def count_success(data):
