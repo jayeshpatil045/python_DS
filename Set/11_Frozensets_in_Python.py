@@ -3,7 +3,7 @@
 @Author: jayesh Patil
 @Date: 2024-08-19
 @Last Modified by: Jayesh Patil
-@Title : Write a Python program to clear a set.
+@Title : Write a  Python program to use of frozensets.
 
 '''
 
